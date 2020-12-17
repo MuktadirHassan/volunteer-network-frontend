@@ -3,7 +3,7 @@
 Volunteer network is a full-stack SPA using MERN stack.
 This is the frontend part of the fullstack project using bootstrap and _create-react-app_
 
->  [Volunteer Network - Frontend](https://github.com/MuktadirHassan/volunteer-network-frontend)
+>  [Volunteer Network - Backend](https://github.com/MuktadirHassan/volunteer-network-backend)
 
 ## Key Features
 - Protected routes only accessible to logged in users and admin
